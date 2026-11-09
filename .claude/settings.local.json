@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:discord.com)",
+      "WebFetch(domain:docs.discord.com)"
+    ]
+  }
+}
